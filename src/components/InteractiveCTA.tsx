@@ -37,7 +37,7 @@ const actions = [
     title: 'Share & Influence',
     icon: '📢',
     howto: '1. Share this guide with 3 friends\n2. Post about climate action on social media\n3. Join a local climate group\n4. Start a climate conversation at work\n5. Document and share your climate journey',
-    resources: ['https://net-zero-guide-git-main-kings-indians-projects.vercel.app/', 'ClimateActionNow.org', 'Local climate groups', 'Social media platforms']
+    resources: ['https://net-zero-guide.vercel.app/', 'ClimateActionNow.org', 'Local climate groups', 'Social media platforms']
   },
 ];
 
