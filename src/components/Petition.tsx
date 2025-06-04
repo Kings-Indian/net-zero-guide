@@ -54,23 +54,6 @@ export default function Petition({ onSuccess }: PetitionProps) {
               Join the global movement demanding stronger climate action. Current national climate plans are insufficient to meet the 1.5°C target, risking irreversible climate impacts.
             </p>
 
-            <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg">
-              <h3 className="font-semibold text-gray-800 dark:text-gray-200 mb-3 text-lg">Why Climate Action Matters:</h3>
-              <p className="text-gray-600 dark:text-gray-300">
-                The climate crisis is the defining challenge of our time. Every degree of warming matters, and every action counts. By making sustainable choices in our daily lives, we can collectively make a significant impact.
-              </p>
-            </div>
-
-            <div className="bg-blue-50 dark:bg-blue-900/30 p-6 rounded-lg">
-              <h3 className="font-semibold text-blue-800 dark:text-blue-400 mb-3 text-lg">The Path to 1.5°C:</h3>
-              <p className="text-gray-600 dark:text-gray-300 mb-4">
-                Achieving the 1.5°C target requires a rapid and unprecedented transformation of our global energy system. Historical data shows a fossil-fuel dominated mix, but recent years have seen rapid growth in renewables like solar and wind. Mainstream climate models envision a 1.5°C world where fossil fuel use is almost eliminated by 2100, with remaining emissions offset by net-negative technologies like direct air capture and reforestation.
-              </p>
-              <p className="text-gray-600 dark:text-gray-300">
-                However, this transition is not automatic. It depends on massive global investment, estimated at $4–5 trillion annually, to ensure a fair transition for developing nations and fund the necessary infrastructure. Continued cost declines in renewable technologies, alongside breakthroughs in areas like grid infrastructure, carbon capture and storage (CCS), direct air capture (DAC), and potentially fusion power, are also crucial. While the exact pathway is uncertain, the clear consensus from major studies is that we must transition to a nearly all-renewable and carbon-negative energy system by the end of this century to meet the Paris Agreement goals and secure a livable future.
-              </p>
-            </div>
-
             <div className="bg-yellow-50 dark:bg-yellow-900/30 p-4 rounded-lg border-l-4 border-yellow-500">
               <h3 className="font-semibold text-yellow-800 dark:text-yellow-400 mb-2">Urgent Call to Action:</h3>
               <ul className="list-disc list-inside space-y-2 text-sm text-gray-700 dark:text-gray-300">
