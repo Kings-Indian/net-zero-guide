@@ -20,7 +20,7 @@ export default function WhyItMatters() {
           <p className="text-gray-600 dark:text-gray-300 mb-8 text-center max-w-3xl mx-auto leading-relaxed">
             Reaching the <span className="font-bold">1.5°C</span> target demands a bold and rapid overhaul of our global energy system. While fossil fuels have historically dominated, recent years have seen a significant surge in renewable energy sources like solar and wind. Climate models depict a future where fossil fuel reliance is nearly eliminated by 2100, with the remaining emissions balanced through net-negative solutions such as direct air capture and reforestation.
 
-            However, this shift won't happen on its own—it requires unprecedented global investment, estimated at $4–5 trillion per year, to ensure a just transition for developing nations and to build the necessary infrastructure. Continued cost reductions in renewables, coupled with advancements in grid technology, carbon capture and storage (CCS), direct air capture (DAC), and emerging breakthroughs like fusion power, will be essential.
+            However, this shift won't happen on its own. It requires unprecedented global investment, estimated at $4–5 trillion per year, to ensure a just transition for developing nations and to build the necessary infrastructure. Continued cost reductions in renewables, coupled with advancements in grid technology, carbon capture and storage (CCS), direct air capture (DAC), and emerging breakthroughs like fusion power, will be essential.
           </p>
 
           {/* Impact Comparison Table */}
